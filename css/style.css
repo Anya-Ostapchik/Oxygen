@@ -132,7 +132,7 @@ body{
     font-weight: 700;
 }
 .bg__img{
-    background-image: url(../img/bg.svg);
+    background-image: url(../img/bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -452,7 +452,7 @@ body{
     content: '';
 	position: absolute;
 	left: 0; 
-    bottom: -5px;
+    bottom: 5px;
 	width: 0;
 	height: 1.5px;
 	background-color: #FCBB08;
