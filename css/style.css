@@ -104,7 +104,7 @@ body{
     content: '';
 	position: absolute;
 	left: 0; 
-    bottom: -10px;
+    bottom: -5px;
 	width: 0;
 	height: 1.5px;
 	background-color: #FCBB08;
@@ -138,6 +138,7 @@ body{
     background-size: cover;
     padding-top: 200px;
     padding-bottom: 300px;
+    background-color: #61b4d4;
 }
 .bg_title{
     font-size: 6.25rem;
@@ -186,7 +187,7 @@ body{
     content: '';
 	position: absolute;
 	left: 0; 
-    bottom: -10px;
+    bottom: -5px;
 	width: 0;
 	height: 1.5px;
 	background-color: #FCBB08;
@@ -234,7 +235,7 @@ body{
     content: '';
 	position: absolute;
 	left: 0; 
-    bottom: -10px;
+    bottom: -5px;
 	width: 0;
 	height: 1.5px;
 	background-color: #FCBB08;
@@ -369,20 +370,20 @@ body{
     letter-spacing: -1.65px;
     color: #242121;
     margin-bottom: 85px;
-    display: block;
+    display: inline-block;
     position: relative;
 }
 .wrap__title::before{
     content: '';
 	position: absolute;
 	left: 0; 
-    bottom: -20px;
+    bottom: -5px;
 	width: 0;
 	height: 1.5px;
 	background-color: #FCBB08;
 }
 .wrap__title:hover:before {
-	width: 340px;
+	width: 100%;
 }
 .wrap__title::before{
     transition: width 0.35s;
@@ -416,7 +417,7 @@ body{
     content: '';
 	position: absolute;
 	left: 0; 
-    bottom: -20px;
+    bottom: -5px;
 	width: 0;
 	height: 1.5px;
 	background-color: #FCBB08;
@@ -451,7 +452,7 @@ body{
     content: '';
 	position: absolute;
 	left: 0; 
-    bottom: -10px;
+    bottom: -5px;
 	width: 0;
 	height: 1.5px;
 	background-color: #FCBB08;
@@ -494,7 +495,7 @@ body{
     font-weight: 700;
     font-size: 0.875rem;
     letter-spacing: 1.2px;
-    padding-top: 40px;
+    margin-top: 40px;
     cursor: pointer;
 }
 .quote{
@@ -674,7 +675,7 @@ body{
     content: '';
 	position: absolute;
 	left: 0; 
-    bottom: -20px;
+    bottom: -5px;
 	width: 0;
 	height: 1.5px;
 	background-color: #FCBB08;
